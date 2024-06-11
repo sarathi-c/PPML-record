@@ -1,4 +1,4 @@
-## PPML Experiments BY suriyakumar 220801214
+## PPML Experiments BY SARATHI 220801187
 
 
 **1. Fundamentals with** *Numpy, Pandas, Matplotlib* [here](Ex-01/Numpy-Pandas-Matplotlib.ipynb)
